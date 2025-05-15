@@ -1,0 +1,12 @@
+{
+  "name": "controlecontas",
+  "version": "1.0.0",
+  "description": "controle mensal de contas ",
+  "license": "ISC",
+  "author": "henderson kettermann",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
