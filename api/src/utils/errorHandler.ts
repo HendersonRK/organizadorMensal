@@ -1,0 +1,3 @@
+/*
+# funções utilitárias
+*/
